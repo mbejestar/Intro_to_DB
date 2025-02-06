@@ -1,4 +1,3 @@
-
 USE alx_book_store;  
 
 SELECT COLUMN_NAME, DATA_TYPE, IS_NULLABLE  
